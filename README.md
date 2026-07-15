@@ -94,13 +94,19 @@
 ## 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:joaomatheus2372@gmail.com">
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:joaomatheus2372@gmail.com" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://wa.me/5511999999999" target="_blank">
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://wa.me/5511999999999" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp" />
   </a>
 </div>
