@@ -40,12 +40,22 @@
 
 🎯 Objetivo: conquistar minha oportunidade focada em Desenvolvimento Full Stack / Back-end.
 
-📚 Atualmente estudando e aprofundando em:
+## 📚 Atualmente estudando e aprofundando em:
 
-- JavaScript & TypeScript
+🎨 **Front-end**
+- JavaScript
+- TypeScript
 - React
-- Node.js & Java
-- Docker & Linux Environments
+
+⚙️ **Back-end**
+- Node.js
+- Java
+
+🗄️ **Banco de Dados**
+- MySQL
+- Supabase
+
+---
 
 ---
 
