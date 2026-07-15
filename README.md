@@ -1,8 +1,4 @@
-💙 Desenvolvedor Web apaixonado por criar aplicações Web, funcionais e intuitivas.
-
-📚 Em constante evolução por meio de cursos online, certificações e projetos práticos voltados ao desenvolvimento Full Stack.
-
-🎯 Buscando minha primeira oportunidade como Desenvolvedor Web Full Stack para aplicar meus conhecimentos e continuar crescendo na área.
+Me chamo João Mateus, tenho 23 anos e sou Desenvolvedor Web. Busco aprimorar constantemente minhas habilidades por meio de cursos online, certificações e projetos práticos, com foco no desenvolvimento Full Stack. Atualmente, estou em busca da minha primeira oportunidade para aplicar meus conhecimentos e evoluir profissionalmente.
 
 ## 📚 Atualmente estudando e aprofundando em:
 
