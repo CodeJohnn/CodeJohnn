@@ -43,7 +43,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥Sequência no GitHub
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Gráfico de Atividade
 
 <div align="center">
 
