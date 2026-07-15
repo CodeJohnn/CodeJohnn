@@ -131,7 +131,7 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-  <img src="https://www.linkedin.com/in/jo%C3%A3o-mateus-a75145249/" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:joaomatheus2372@gmail.com">
