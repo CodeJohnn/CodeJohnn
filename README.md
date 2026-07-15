@@ -15,7 +15,7 @@
       <span style="color: #a9b1d6;">💻 Full Stack Developer & Linux Enthusiast</span><br />
       <span style="color: #a9b1d6;">📍 São Paulo, Brazil</span><br /><br />
       <span style="color: #89ddff;">$</span> <span style="color: #c3e88d; font-weight: bold;">neofetch --skills</span><br />
-      <span style="color: #ffcb6b; font-weight: bold;">OS       ::</span> <span style="color: #a9b1d6;">Linux Mint (Cinnamon)</span><br />
+      <span style="color: #ffcb6b; font-weight: bold;">OS       :</span> <span style="color: #a9b1d6;">Linux Mint, Debian, PopOs e Fedora</span><br />
       <span style="color: #ffcb6b; font-weight: bold;">Frontend ::</span> <span style="color: #a9b1d6;">HTML • CSS • JavaScript • React</span><br />
       <span style="color: #ffcb6b; font-weight: bold;">Backend  ::</span> <span style="color: #a9b1d6;">Node.js • Java • .NET</span><br />
       <span style="color: #ffcb6b; font-weight: bold;">DevOps   ::</span> <span style="color: #a9b1d6;">Docker • Linux Admin</span><br /><br />
