@@ -1,51 +1,85 @@
-
-## 👩🏻‍💻 Sobre mim
-
-💙 Apaixonado por tecnologia, desenvolvimento de software e infraestrutura de servidores.
-
-🎯 Objetivo: conquistar minha oportunidade focada em Desenvolvimento Full Stack / Back-end.
-
-## 📚 Atualmente estudando e aprofundando em:
-
-<table align="center">
-<tr>
-<td valign="top">
-
-### 🎨 Front-end
-- JavaScript
-- TypeScript
-- React
-
-</td>
-<td valign="top">
-
-### ⚙️ Back-end
-- Node.js
-- Java
-
-</td>
-<td valign="top">
-
-### 🗄️ Banco de Dados
-- MySQL
-- Supabase
-  
-</td>
-</tr>
-</table>
-
-
-## 💻 Tecnologias e Ferramentas
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,java,mysql,git,github,supabase,vscode,debian,mint" />
+# 👋 Olá, eu sou João Mateus
+
+💻 Desenvolvedor Full Stack em formação  
+🚀 Focado em JavaScript, React, Node.js e Java
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 👨🏻‍💻 Sobre mim
+
+💙 Apaixonado por tecnologia, desenvolvimento de software e infraestrutura de servidores.
+
+🎯 Buscando minha primeira oportunidade como Desenvolvedor Full Stack / Back-end.
+
+📚 Atualmente estudando e aprofundando conhecimentos em React, Node.js, Java, MySQL e Supabase.
+
+---
+
+# 📚 Atualmente estudando
+
+<table>
+<tr>
+
+<td valign="top" width="33%">
+
+## 🎨 Front-end
+
+- JavaScript
+- TypeScript
+- React
+
+</td>
+
+<td valign="top" width="33%">
+
+## ⚙️ Back-end
+
+- Node.js
+- Java
+
+</td>
+
+<td valign="top" width="33%">
+
+## 🗄️ Banco de Dados
+
+- MySQL
+- Supabase
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💻 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,java,mysql,git,github,supabase,vscode,debian,linux" />
+
+</div>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeJohnn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeJohnn&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -55,7 +89,7 @@
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <div align="center">
 
@@ -65,42 +99,63 @@
 
 ---
 
-## 🚀 Projetos
+# 🚀 Projetos
 
-| Projeto | Tecnologias | 🔗 Produção |
-|---------|-------------|------------|
-| 💈 Julio Barbearia | HTML • CSS • JavaScript • MySQL | [Acessar](https://seu-link-aqui.com) |
-| 📚 Biblioteca de Alexandria | HTML • CSS • JavaScript • React | [Acessar](https://seu-link-aqui.com) |
-| 💰 Âncora Financeiro | React • Express • MySQL | [Acessar](https://seu-link-aqui.com) |
-| 🌐 Portfólio | React • CSS | [Acessar](https://seu-link-aqui.com) |
+| Projeto | Tecnologias | Link |
+|---------|-------------|------|
+| 💈 Julio Barbearia | HTML • CSS • JavaScript • MySQL | [Acessar](https://seu-link.com) |
+| 📚 Biblioteca de Alexandria | HTML • CSS • JavaScript • React | [Acessar](https://seu-link.com) |
+| 💰 Âncora Financeiro | React • Express • MySQL | [Acessar](https://seu-link.com) |
+| 🌐 Portfólio | React • CSS | [Acessar](https://seu-link.com) |
 
 ---
 
-## 📚 Stack de Estudos Recentes
+# 📖 Atualmente aprendendo
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 </div>
 
+---
 
-## 📫 Vamos nos conectar?
+# 📫 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:joaomatheus2372@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/5511999999999" target="_blank" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp" /></a>
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:joaomatheus2372@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://wa.me/5519971026797">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48"/>
+</a>
+
 </div>
 
-### ⭐ Obrigado pela visita!
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:005CFF&height=130&section=footer"/>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=CodeJohnn&color=blueviolet&style=for-the-badge)
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:005CFF&height=140&section=footer"/>
