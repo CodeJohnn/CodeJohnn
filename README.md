@@ -91,18 +91,18 @@
 ## 📫 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="48" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:joaomatheus2372@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/5519971026797">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" alt="WhatsApp">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/5519971026797" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" alt="WhatsApp" />
   </a>
-</p>>
+</p>
 ### ⭐ Obrigado pela visita!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:005CFF&height=130&section=footer"/>
