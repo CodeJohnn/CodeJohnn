@@ -1,36 +1,6 @@
 <div align="center">
 
 <table width="600px">
-  <!-- Barra de Título do Terminal -->
-  <tr bgcolor="#181818">
-    <td style="padding: 10px; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom: 1px solid #2d2d2d;">
-      <span style="color: #ff5f56; font-size: 18px;">●</span><span style="color: #ffbd2e; font-size: 18px; margin-left: 3px;">●</span><span style="color: #27c93f; font-size: 18px; margin-left: 3px;">●</span><span style="color: #a9b1d6; font-family: monospace; font-size: 13px; margin-left: 15px; font-weight: bold;">ArkanRoot@GuedesSEC:~</span>
-    </td>
-  </tr>
-  <!-- Corpo do Terminal -->
-  <tr bgcolor="#0f0f14">
-    <td style="padding: 20px; border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.6; text-align: left;">
-      <span style="color: #89ddff;">$</span> <span style="color: #c3e88d; font-weight: bold;">whoami</span><br />
-      <span style="color: #a9b1d6;">👤 João Matheus (ArkanRoot)</span><br />
-      <span style="color: #a9b1d6;">💻 Full Stack Developer & Linux Enthusiast</span><br />
-      <span style="color: #a9b1d6;">📍 São Paulo, Brazil</span><br /><br />
-      <span style="color: #89ddff;">$</span> <span style="color: #c3e88d; font-weight: bold;">neofetch --skills</span><br />
-      <span style="color: #ffcb6b; font-weight: bold;">OS       :</span> <span style="color: #a9b1d6;">Linux Mint, Debian, PopOs e Fedora</span><br />
-      <span style="color: #ffcb6b; font-weight: bold;">Frontend ::</span> <span style="color: #a9b1d6;">HTML • CSS • JavaScript • React</span><br />
-      <span style="color: #ffcb6b; font-weight: bold;">Backend  ::</span> <span style="color: #a9b1d6;">Node.js • Java • .NET</span><br />
-      <span style="color: #ffcb6b; font-weight: bold;">DevOps   ::</span> <span style="color: #a9b1d6;">Docker • Linux Admin</span><br /><br />
-      <span style="color: #ff5370; font-weight: bold;">Status   ::</span> <span style="color: #27c93f;">███████████████ 100% Ready</span>
-    </td>
-  </tr>
-</table>
-
-
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;Full+Stack+Developer;JavaScript+•+React+•+Node.js+•+Java;Sempre+aprendendo+algo+novo." />
-
-</div>
 
 ---
 
