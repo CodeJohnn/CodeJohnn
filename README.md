@@ -64,11 +64,12 @@
 ### 🗄️ Banco de Dados
 - MySQL
 - Supabase
-
+  
 </td>
 </tr>
-</table>
 ---
+</table>
+
 
 ## 💻 Tecnologias e Ferramentas
 
