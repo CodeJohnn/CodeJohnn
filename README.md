@@ -1,3 +1,4 @@
+![Desenvolvedor Web](https://img.shields.io/badge/Desenvolvedor%20Web-0A66C2?style=for-the-badge)
 Me chamo João Mateus, tenho 23 anos e sou Desenvolvedor Web. Busco aprimorar constantemente minhas habilidades por meio de cursos online, certificações e projetos práticos, com foco no desenvolvimento Full Stack. Atualmente, estou em busca da minha primeira oportunidade para aplicar meus conhecimentos e evoluir profissionalmente.
 
 ## 📚 Atualmente estudando e aprofundando em:
