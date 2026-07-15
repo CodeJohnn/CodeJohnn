@@ -1,8 +1,3 @@
-<div align="center">
-
-<table width="600px">
-
----
 
 ## 🚀 Sobre mim
 
