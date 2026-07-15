@@ -91,12 +91,10 @@
 ## 📫 Vamos nos conectar?
 
 <table align="center">
-<tr>
 <td align="center">
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
-</td>
 
 <td width="30"></td>
 
@@ -104,7 +102,7 @@
 <a href="mailto:joaomatheus2372@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
-</td>
+
 
 <td width="30"></td>
 
@@ -112,8 +110,6 @@
 <a href="https://wa.me/5519971026797" target="_blank">
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp"/>
 </a>
-</td>
-</tr>
 </table>
 ### ⭐ Obrigado pela visita!
 
