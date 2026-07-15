@@ -1,7 +1,4 @@
-<h1 align="center">𝕮𝖔𝖉𝖊𝕵𝖔𝖍𝖓</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor%20Web-4b5563?style=flat-square">
+#𝕮𝖔𝖉𝖊𝕵𝖔𝖍𝖓
 </p>
 
 ![Desenvolvedor Web](https://img.shields.io/badge/Desenvolvedor%20Web-4b5563?style=flat-square)
