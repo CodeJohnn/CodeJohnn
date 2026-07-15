@@ -124,18 +124,18 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
----
+
 
 ## 📫 Vamos nos conectar?
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <img src="https://www.linkedin.com/in/jo%C3%A3o-mateus-a75145249/" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:SEUEMAIL@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+<a href="mailto:joaomatheus2372@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 
 </div>
