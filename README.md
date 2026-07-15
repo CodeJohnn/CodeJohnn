@@ -54,9 +54,6 @@
 🗄️ **Banco de Dados**
 - MySQL
 - Supabase
-
----
-
 ---
 
 ## 💻 Tecnologias e Ferramentas
