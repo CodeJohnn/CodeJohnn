@@ -1,5 +1,5 @@
 
-## 🚀 Sobre mim
+## 👩🏻‍💻 Sobre mim
 
 💙 Apaixonado por tecnologia, desenvolvimento de software e infraestrutura de servidores.
 
