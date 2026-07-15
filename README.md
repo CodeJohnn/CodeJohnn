@@ -95,12 +95,14 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank" style="text-decoration: none;">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:joaomatheus2372@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+
+<a href="mailto:joaomatheus2372@gmail.com" style="text-decoration: none;">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 
 </div>
