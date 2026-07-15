@@ -67,12 +67,12 @@
 
 ## 🚀 Projetos
 
-| Projeto | Tecnologias |
-|---------|-------------|
-| 💈 Julio Barbearia | Html • Css • JavaScript • MySQL |
-| 📚 Biblioteca de Alexandria | HTML • CSS • JavaScript • React |
-| 💰 Âncora Financeiro | React • Express • MySQL |
-| 🌐 Portfólio | React • CSS |
+| Projeto | Tecnologias | 🔗 Produção |
+|---------|-------------|------------|
+| 💈 Julio Barbearia | HTML • CSS • JavaScript • MySQL | [Acessar](https://seu-link-aqui.com) |
+| 📚 Biblioteca de Alexandria | HTML • CSS • JavaScript • React | [Acessar](https://seu-link-aqui.com) |
+| 💰 Âncora Financeiro | React • Express • MySQL | [Acessar](https://seu-link-aqui.com) |
+| 🌐 Portfólio | React • CSS | [Acessar](https://seu-link-aqui.com) |
 
 ---
 
