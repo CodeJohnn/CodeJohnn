@@ -1,5 +1,9 @@
 <h1 align="center">𝕮𝖔𝖉𝖊𝕵𝖔𝖍𝖓</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedor%20Web-4b5563?style=flat-square">
+</p>
+
 ![Desenvolvedor Web](https://img.shields.io/badge/Desenvolvedor%20Web-4b5563?style=flat-square)
 
 Me chamo **João Mateus**, tenho **23 anos** e sou Desenvolvedor Web. Busco aprimorar constantemente minhas habilidades por meio de cursos online, certificações e projetos práticos, com foco no desenvolvimento Full Stack. Atualmente, estou em busca da minha primeira oportunidade para aplicar meus conhecimentos, contribuir com soluções de qualidade e evoluir profissionalmente.
