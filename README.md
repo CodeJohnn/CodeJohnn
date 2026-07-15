@@ -1,4 +1,4 @@
-# 𝕮𝖔𝖉𝖊𝕵𝖔𝖍𝖓
+<h1 align="center">𝕮𝖔𝖉𝖊𝕵𝖔𝖍𝖓</h1>
 
 ![Desenvolvedor Web](https://img.shields.io/badge/Desenvolvedor%20Web-4b5563?style=flat-square)
 
