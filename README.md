@@ -97,15 +97,9 @@
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
   <a href="mailto:joaomatheus2372@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://wa.me/5511999999999" target="_blank">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp" />
   </a>
