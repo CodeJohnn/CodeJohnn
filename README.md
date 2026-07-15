@@ -1,31 +1,41 @@
-##  ██████╗ ██████╗ ██████╗ ███████╗     ██╗ ██████╗ ██╗  ██╗███╗   ██╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝     ██║██╔═══██╗██║  ██║████╗  ██║
-██║     ██║   ██║██║  ██║█████╗       ██║██║   ██║███████║██╔██╗ ██║
-██║     ██║   ██║██║  ██║██╔══╝  ██   ██║██║   ██║██╔══██║██║╚██╗██║
-╚██████╗╚██████╔╝██████╔╝███████╗╚█████╔╝╚██████╔╝██║  ██║██║ ╚████║
- ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
-
 <div align="center">
 
-# 👋 Olá, eu sou João Mateus
+```console
+┌──────────────────────────────────────────────────────────────┐
+│  ● ● ●  CodeJohnn Terminal                                  │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  $ whoami                                                    │
+│                                                              │
+│  👤 João Mateus                                              │
+│  💻 Full Stack Developer                                    │
+│  📍 Brazil                                                   │
+│                                                              │
+│  Frontend  :: HTML • CSS • JavaScript • React               │
+│  Backend   :: Node.js • .NET                                │
+│  Database  :: SQL Server • MySQL                            │
+│                                                              │
+│  Status    :: ██████████ Building...                        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-### 💻 Full Stack Developer em formação
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&random=false&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Estudando+JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+.NET;Sempre+aprendendo+algo+novo." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;Full+Stack+Developer;JavaScript+•+React+•+Node.js+•+.NET;Sempre+aprendendo+algo+novo." />
 
 </div>
 
 ---
 
-# 🚀 Sobre mim
+## 🚀 Sobre mim
 
 💙 Apaixonado por tecnologia e desenvolvimento.
 
-🎯 Objetivo: conquistar minha primeira vaga como Desenvolvedor Full Stack.
+🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Full Stack.
 
 📚 Atualmente estudando:
 
 - JavaScript
+- TypeScript
 - React
 - Node.js
 - .NET
@@ -33,17 +43,17 @@
 
 ---
 
-# 💻 Tecnologias
+## 💻 Tecnologias
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,cs,dotnet,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,cs,dotnet,mysql,git,github,docker,vscode,linux" />
 
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -55,7 +65,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -65,37 +75,62 @@
 
 ---
 
-# 🚀 Projetos
+## 📈 Activity Graph
 
-| Projeto | Descrição |
-|----------|-----------|
-| 💈 Julio Barbearia | Sistema de agendamento para barbearia |
-| 📚 Biblioteca de Alexandria | Biblioteca digital de estudos |
-| 💰 Âncora | Sistema de controle financeiro |
-| 🌐 Portfólio | Meu site pessoal |
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeJohnn&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📫 Contato
+## 🚀 Projetos
 
-<p align="center">
+| Projeto | Tecnologias |
+|---------|-------------|
+| 💈 Julio Barbearia | React • Node.js • SQL |
+| 📚 Biblioteca de Alexandria | HTML • CSS • JavaScript |
+| 💰 Âncora Financeiro | React • Express • MySQL |
+| 🌐 Portfólio | React • CSS |
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+---
+
+## 📚 Atualmente estudando
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:seuemail@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+### ⭐ Obrigado pela visita!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:005CFF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:005CFF&height=130&section=footer"/>
 
 </div>
