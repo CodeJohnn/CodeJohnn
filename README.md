@@ -42,18 +42,32 @@
 
 ## 📚 Atualmente estudando e aprofundando em:
 
-🎨 **Front-end**         
-- JavaScript          
-- TypeScript          
+<table align="center">
+<tr>
+<td valign="top">
+
+### 🎨 Front-end
+- JavaScript
+- TypeScript
 - React
-  
-⚙️ **Back-end**       
+
+</td>
+<td valign="top">
+
+### ⚙️ Back-end
 - Node.js
 - Java
-  
-🗄️ **Banco de Dados**
+
+</td>
+<td valign="top">
+
+### 🗄️ Banco de Dados
 - MySQL
 - Supabase
+
+</td>
+</tr>
+</table>
 ---
 
 ## 💻 Tecnologias e Ferramentas
