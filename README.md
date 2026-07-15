@@ -1,8 +1,8 @@
-## 👩🏻‍💻 Sobre mim
+💙 Desenvolvedor Web apaixonado por criar aplicações Web, funcionais e intuitivas.
 
-💙 Apaixonado por tecnologia, desenvolvimento de software e infraestrutura de servidores.
+📚 Em constante evolução por meio de cursos online, certificações e projetos práticos voltados ao desenvolvimento Full Stack.
 
-🎯 Objetivo: conquistar minha oportunidade focada em Desenvolvimento Full Stack / Back-end.
+🎯 Buscando minha primeira oportunidade como Desenvolvedor Web Full Stack para aplicar meus conhecimentos e continuar crescendo na área.
 
 ## 📚 Atualmente estudando e aprofundando em:
 
