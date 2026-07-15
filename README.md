@@ -90,25 +90,31 @@
 
 ## 📫 Vamos nos conectar?
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td align="center">
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="30"></td>
 
+<td align="center">
 <a href="mailto:joaomatheus2372@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="30"></td>
 
+<td align="center">
 <a href="https://wa.me/5519971026797" target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp" />
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp"/>
 </a>
-
-</div>
+</td>
+</tr>
+</table>
 ### ⭐ Obrigado pela visita!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:005CFF&height=130&section=footer"/>
