@@ -19,6 +19,14 @@ Me chamo **João Mateus**, tenho **23 anos** e sou Desenvolvedor Web. Busco apri
 </td>
 <td valign="top">
 
+### ⚙️ Frameworks e Bibliotecas
+- React - JavaScript
+- tawlind - CSS
+
+</td>
+
+<td valign="top">
+
 ### ⚙️ Back-end
 - Node.js
 - Java
