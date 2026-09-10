@@ -62,15 +62,7 @@ Me chamo **João Mateus**, tenho **23 anos** e sou Desenvolvedor Web. Busco apri
 
 ---
 
-## 📈 Gráfico de Atividade
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeJohnn&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
 
 ## 🚀 Projetos
 
