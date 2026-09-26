@@ -12,7 +12,7 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## - Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -21,7 +21,7 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 </div>
 
 
-## 🚀 Projetos
+## - Projetos
 
 | Projeto                         | Tecnologias                                          | 🔗 Acesso                                                                     |
 | ------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 
 ---
 
-## 📚 Atualmente estudando
+## - Atualmente estudando
 
 * JavaScript
 * Node.js
@@ -43,13 +43,13 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 
 ---
 
-## 🎯 Objetivo
+## - Objetivo
 
 Meu objetivo é evoluir como desenvolvedor, fortalecer minha base em **programação, desenvolvimento web, bancos de dados e Linux**, e construir uma carreira profissional na área de tecnologia.
 
 ---
 
-## 📫 Vamos nos conectar?
+## - Vamos nos conectar?
 
 <div align="center">
 
