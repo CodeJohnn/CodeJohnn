@@ -21,17 +21,6 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 </div>
 
 ---
----
-
-## 📊 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeJohnn&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=CodeJohnn%20-%20Atividade%20no%20GitHub" width="100%" alt="Gráfico de atividade do GitHub"/>
-
-</div>
-
----
 ## 🔥 GitHub Streak
 
 <div align="center">
