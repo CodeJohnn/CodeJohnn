@@ -14,10 +14,11 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,mysql,git,github,supabase,vscode,linux,debian,mint,fedora" alt="Tecnologias e ferramentas"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,mysql,git,github,supabase,vscode,linux,debian,mint" alt="Tecnologias e ferramentas"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"
-     width="45"
-     height="45"
+     width="48"
+     height="48"
      alt="Fedora"/>
 
 </div>
