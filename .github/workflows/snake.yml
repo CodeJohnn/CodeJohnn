@@ -23,10 +23,10 @@ jobs:
         with:
           github_user_name: Codejohnn
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-dark&color_snake=#8B00FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#8B00FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
 
-      - name: Push Snake to output branch
+      - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
