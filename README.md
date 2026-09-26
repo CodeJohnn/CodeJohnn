@@ -19,7 +19,24 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,mysql,git,github,supabase,vscode,linux,debian,mint" alt="Tecnologias e ferramentas"/>
 
 </div>
-###
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Codejohnn/Codejohnn/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Codejohnn/Codejohnn/output/github-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Codejohnn/Codejohnn/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
 
 
