@@ -62,21 +62,27 @@ Meu objetivo é evoluir como desenvolvedor, fortalecer minha base em **programa�
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-</a>
-
-    
-
-<a href="mailto:joaomatheus2372@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-</a>
-
-    
-
-<a href="https://wa.me/5519971026797" target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" alt="WhatsApp"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <a href="mailto:joaomatheus2372@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <a href="https://wa.me/5519971026797" target="_blank">
+        <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" alt="WhatsApp"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -89,3 +95,4 @@ Meu objetivo é evoluir como desenvolvedor, fortalecer minha base em **programa�
 **CodeJohn • Desenvolvedor em Formação**
 
 </div>
+
