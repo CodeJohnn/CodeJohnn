@@ -5,42 +5,6 @@
 
 Me chamo **João Mateus**, tenho **23 anos** e sou Desenvolvedor Web. Busco aprimorar constantemente minhas habilidades por meio de cursos online, certificações e projetos práticos, com foco no desenvolvimento Full Stack. Atualmente, estou em busca da minha primeira oportunidade para aplicar meus conhecimentos, contribuir com soluções de qualidade e evoluir profissionalmente.
 
-## 📚 Atualmente estudando e aprofundando em:
-
-<table align="center">
-<tr>
-<td valign="top">
-
-### 🎨 Front-end
-- JavaScript
-- TypeScript
-- React
-
-</td>
-<td valign="top">
-
-### ⚙️ Frameworks e Bibliotecas
-- React - JavaScript
-- tawlind - CSS
-
-</td>
-
-<td valign="top">
-
-### ⚙️ Back-end
-- Node.js
-- Java
-
-</td>
-<td valign="top">
-
-### 🗄️ Banco de Dados
-- MySQL
-- Supabase
-
-</td>
-</tr>
-</table>
 
 ## 💻 Tecnologias e Ferramentas
 
