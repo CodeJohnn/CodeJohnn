@@ -16,14 +16,6 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,mysql,git,github,supabase,vscode,linux,debian,mint" alt="Tecnologias e ferramentas"/>
 
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"
-  width="48"
-  height="48"
-  alt="Fedora"
-  style="margin-left: 10px;"
-/>
-
 </div>
 
  <div align="center">
