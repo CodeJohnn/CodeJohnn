@@ -25,12 +25,11 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeJohnn&theme=github-compact&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-calendar.vercel.app/api?username=CodeJohnn&theme=github&hide_border=true" width="100%" alt="GitHub Contributions"/>
 
 </div>
 
 ---
-
 ---
 ## 🔥 GitHub Streak
 
