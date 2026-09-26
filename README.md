@@ -22,22 +22,9 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Codejohnn/Codejohnn/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Codejohnn/Codejohnn/output/github-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/Codejohnn/Codejohnn/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-
-</picture>
+<img
+  src="https://raw.githubusercontent.com/Codejohnn/Codejohnn/output/github-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
