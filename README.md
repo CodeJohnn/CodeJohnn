@@ -53,5 +53,5 @@ Me chamo **João Mateus**, tenho **23 anos** e sou Desenvolvedor Web. Busco apri
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" alt="WhatsApp" />
   </a>
 </p>
-### ⭐ Obrigado pela visita!
+Obrigado pela visita!
 
