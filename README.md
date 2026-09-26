@@ -19,6 +19,17 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,mysql,git,github,supabase,vscode,linux,debian,mint" alt="Tecnologias e ferramentas"/>
 
 </div>
+---
+
+## 📊 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeJohnn&theme=github-compact&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
 
 ---
 ## 🔥 GitHub Streak
