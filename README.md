@@ -10,7 +10,7 @@ Me chamo **João Mateus**, tenho **23 anos** e sou Desenvolvedor Web. Busco apri
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,java,mysql,git,github,supabase,vscode,debian,mint" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,mysql,git,github,supabase,vscode,fedora,debian,mint" alt="Skills"/>
 
 </div>
 
