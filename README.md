@@ -22,11 +22,9 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
      alt="Fedora"/>
 
 </div>
-
-</br>
 ---
 
-## <div align="center">
+# <div align="center">
 
 <img
   src="https://raw.githubusercontent.com/Codejohnn/Codejohnn/output/github-snake.svg"
