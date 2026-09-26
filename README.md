@@ -32,7 +32,6 @@ Me chamo **João Mateus**, tenho **23 anos** e sou Desenvolvedor Web. Busco apri
 
 | Projeto | Tecnologias | 🔗 Produção |
 |---------|-------------|------------|
-| 💈 Julio Barbearia | HTML • CSS • JavaScript • MySQL | [Acessar](https://seu-link-aqui.com) |
 | 📚 Biblioteca de Alexandria | HTML • CSS • JavaScript • React | [Acessar](https://seu-link-aqui.com) |
 | 💰 Âncora Financeiro | React • Express • MySQL | [Acessar](https://seu-link-aqui.com) |
 | 🌐 Portfólio | React • CSS | [Acessar](https://seu-link-aqui.com) |
