@@ -23,7 +23,7 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
 
 </div>
 
-<br>
+
 
 <div align="center">
 
