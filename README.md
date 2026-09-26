@@ -1,57 +1,91 @@
-𝕮𝖔𝖉𝖊𝕵𝖔𝖍𝖓
+# 𝕮𝖔𝖉𝖊𝕵𝖔𝖍𝖓
+
+### 👨‍💻 Desenvolvedor Web | Full Stack em Formação
+
+Olá! Me chamo **João Mateus**, tenho **23 anos** e sou **Desenvolvedor Web em formação**, com foco em desenvolvimento **Full Stack**.
+
+Tenho experiência prática com projetos próprios e venho aprimorando continuamente meus conhecimentos por meio de **cursos, estudos e projetos práticos**.
+
+Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, onde possa aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo profissionalmente.
+
 ---
-
-![Desenvolvedor Web](https://img.shields.io/badge/Desenvolvedor%20Web-4b5563?style=flat-square)
-
-Me chamo **João Mateus**, tenho **23 anos** e sou Desenvolvedor Web. Busco aprimorar constantemente minhas habilidades por meio de cursos online, certificações e projetos práticos, com foco no desenvolvimento Full Stack. Atualmente, estou em busca da minha primeira oportunidade para aplicar meus conhecimentos, contribuir com soluções de qualidade e evoluir profissionalmente.
-
 
 ## 💻 Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,mysql,git,github,supabase,vscode,Fedora,debian,mint" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,mysql,git,github,supabase,vscode,fedora,debian,mint" alt="Tecnologias e ferramentas"/>
 
 </div>
 
 ---
 
-## 🔥Sequência no GitHub
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=CodeJohnn&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+<img src="https://streak-stats.demolab.com?user=CodeJohnn&theme=tokyonight&hide_border=true&cache_seconds=1" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-
-
 ## 🚀 Projetos
 
-| Projeto | Tecnologias | 🔗 Produção |
-|---------|-------------|------------|
-| 📚 Biblioteca de Alexandria | HTML • CSS • JavaScript • React | [Acessar](https://seu-link-aqui.com) |
-| 💰 Âncora Financeiro | React • Express • MySQL | [Acessar](https://seu-link-aqui.com) |
-| 🌐 Portfólio | React • CSS | [Acessar](https://seu-link-aqui.com) |
+| Projeto                         | Tecnologias                                          | 🔗 Acesso                                                                     |
+| ------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 📚 **Biblioteca de Alexandria** | HTML • CSS • JavaScript                              | [Acessar](https://guedessec.github.io/Biblioteca-de-Alexandria/)              |
+| 💰 **FinGSEC**                  | JavaScript • TypeScript • React • Node.js • Supabase | [Acessar](https://codejohnn.github.io/FinGSEC---Gest-o--Finan-as--Seguran-a/) |
+| 🌐 **Portfólio**                | HTML • CSS • JavaScript                              | [Acessar](https://guedessec.github.io/Portf-lio-dev.-full-stack/)             |
+
+---
+
+## 📚 Atualmente estudando
+
+* JavaScript
+* Node.js
+* React
+* TypeScript
+* Banco de Dados
+* Linux
+* Desenvolvimento Full Stack
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo é evoluir como desenvolvedor, fortalecer minha base em **programação, desenvolvimento web, bancos de dados e Linux**, e construir uma carreira profissional na área de tecnologia.
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:joaomatheus2372@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/5519971026797" target="_blank">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" alt="WhatsApp" />
-  </a>
-</p>
-Obrigado pela visita!
+<div align="center">
 
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+
+    
+
+<a href="mailto:joaomatheus2372@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+</a>
+
+    
+
+<a href="https://wa.me/5519971026797" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" alt="WhatsApp"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 🚀
+
+**CodeJohn • Desenvolvedor em Formação**
+
+</div>
