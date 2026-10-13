@@ -25,4 +25,4 @@ Atualmente, busco minha **primeira oportunidade na área de desenvolvimento**, o
   alt="GitHub Contribution Snake"
 />
 
-</div>>
+</div>
