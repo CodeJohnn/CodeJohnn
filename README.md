@@ -1,8 +1,8 @@
 # CODE JOHN...
 
-### 👨‍💻 Desenvolvedor Web | Full Stack em Formação
+### 👨‍💻 Desenvolvedor Web | Full Stack Autonomo
 
-Olá! Me chamo **João Mateus**, tenho **23 anos** e sou **Desenvolvedor Web em formação**, com foco em desenvolvimento **Full Stack**.
+Olá! Me chamo **João Mateus**, tenho **23 anos** e sou **Desenvolvedor Web Autonomo**, com foco em desenvolvimento **Full Stack**.
 
 Tenho experiência prática com projetos próprios e venho aprimorando continuamente meus conhecimentos por meio de **cursos, estudos e projetos práticos**.
 
