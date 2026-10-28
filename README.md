@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor Web | Full Stack Autonomo
 
-Olá! Me chamo **João Mateus**, tenho **23 anos** e sou **Desenvolvedor Web Autônomo**, com foco em desenvolvimento **Full Stack**.
+Olá! Me chamo **João Mateus**, tenho **23 anos** e sou **Desenvolvedor Autônomo**, com foco em desenvolvimento **Full Stack**.
 
 Tenho experiência prática com projetos próprios e venho aprimorando continuamente meus conhecimentos por meio de **cursos, estudos e projetos práticos**.
 
