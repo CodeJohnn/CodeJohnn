@@ -12,7 +12,7 @@ Tenho experiência prática com projetos próprios e venho aprimorando continuam
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,supabase,vercel,vscode,debian,mint" alt="Tecnologias e ferramentas"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,supabase,render,vscode,debian,mint" alt="Tecnologias e ferramentas"/>
 
 </div>
 
