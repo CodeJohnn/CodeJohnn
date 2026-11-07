@@ -1,6 +1,6 @@
-# CODE JOHN...
+# CODE JOHN
 
-### 👨‍💻 Desenvolvedor Web | Full Stack Autonomo
+### 👨‍💻 Desenvolvedor Node
 
 **Desenvolvedor Autônomo**, com foco em desenvolvimento **Full Stack**.
 
